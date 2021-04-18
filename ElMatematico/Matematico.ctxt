@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ indicarNumeros(int,\ int,\ int)
+comment2.params=base\ altura
+comment2.target=double\ areaCuadrado(double,\ double)
+comment3.params=p1\ p2
+comment3.target=double\ distanciaPuntos(Punto,\ Punto)
+comment4.params=p
+comment4.target=java.lang.String\ queCuadrante(Punto)
+numComments=5
